@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardForm", "WizardForm\WizardForm.csproj", "{672AA1FA-47C4-4E42-954B-ACD81575A81E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{386D58D5-6091-423C-B13A-89AE3DDC0613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9B160A39-108A-4113-956B-40AB48897B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672AA1FA-47C4-4E42-954B-ACD81575A81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672AA1FA-47C4-4E42-954B-ACD81575A81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672AA1FA-47C4-4E42-954B-ACD81575A81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672AA1FA-47C4-4E42-954B-ACD81575A81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386D58D5-6091-423C-B13A-89AE3DDC0613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386D58D5-6091-423C-B13A-89AE3DDC0613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386D58D5-6091-423C-B13A-89AE3DDC0613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386D58D5-6091-423C-B13A-89AE3DDC0613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B160A39-108A-4113-956B-40AB48897B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B160A39-108A-4113-956B-40AB48897B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B160A39-108A-4113-956B-40AB48897B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B160A39-108A-4113-956B-40AB48897B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7281DC4F-8D35-4060-B99A-07405C4B2504}
+	EndGlobalSection
+EndGlobal
